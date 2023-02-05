@@ -1,4 +1,4 @@
-package com.cyan.openai;
+package com.cyan.openai.app;
 
 /**
  * @author cyan
